@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Frases do Dia</string>
+    <string name="frases_dia" />
+    <string name="nova_frase">Ver Frase</string>
+    <string name="frase_dia">Pressione o botão para ver uma nova frase!</string>
+    <string-array name="frases">
+        <item>Ser feliz depende mais da sua atitude do que das circunstâncias à sua volta.</item>
+        <item>No amor as palavras não dizem tanto como as atitudes!</item>
+        <item>"Cada escolha, uma oportunidade. Cada queda, um aprendizado. Cada atitude, uma consequência."</item>
+        <item>Uma atitude positiva pode não resolver todos os seus problemas, mas ela irá incomodar uma quantidade suficiente de pessoas para valer o esforço.</item>
+        <item>Se você não pode mudar seu destino, mude sua atitude!</item>
+        <item>Às vezes um simples momento de reflexão é tudo que precisamos para enxergar a vida com outra percepção.</item>
+        <item>Para ter um negócio de sucesso, alguém, algum dia, teve que tomar uma atitude de coragem.</item>
+        <item>Algumas coisas na sua vida podem mudar com o passar do tempo, mas a maioria só mudará se você tiver a devida atitude.</item>
+        <item>São muitos os desafios que terá pela frente, mas com a atitude certa você estará preparado para todos eles.</item>
+    </string-array>
+</resources>
